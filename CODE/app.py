@@ -28,7 +28,7 @@ try:
     if not API_KEY:
          raise ValueError("GEMINI_API_KEY not found in environment or .env file.")
     
-    os.environ["GEMINI_API_KEY"] = API_KEY
+    os.environ["GEMINI_API_KEY"] = "AIzaSyByJbj54PsMhsr2npl2XjsB3Z8YsKsafns"
     db.init_db()
     
 except Exception as e:
