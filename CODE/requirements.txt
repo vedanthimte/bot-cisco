@@ -1,0 +1,10 @@
+streamlit
+streamlit-authenticator
+google-generativeai
+python-dotenv
+llama-index
+llama-index-llms-gemini
+pypdf
+torch 
+sentence-transformers
+llama_index.embeddings.huggingface
